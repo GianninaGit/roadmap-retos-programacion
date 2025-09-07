@@ -17,8 +17,8 @@
  líneas.
  */
 
-var aVariable
-let aConstant
+var aVariable: String
+let aConstant: String
 
 var myIntVariable = 42
 myIntVariable = 50
